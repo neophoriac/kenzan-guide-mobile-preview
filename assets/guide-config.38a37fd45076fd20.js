@@ -1,0 +1,1 @@
+const kenzanViewAssets = {"guide":{"script":"assets/guide-view.f9f5999d47f31d48.js","runtime":"assets/guide-save-runtime.7c77bf9a0dc5e472.js"},"map":{"script":"assets/atlas-view.d9e25b043feef2fd.js","runtime":"assets/atlas-runtime.67059ee83bdfa0ab.js"}};

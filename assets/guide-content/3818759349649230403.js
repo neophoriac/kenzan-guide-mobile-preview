@@ -1,0 +1,1 @@
+document.currentScript.receiveGuideContent([[[1,"\u003ctd>20 points in a 3-round match.\u003c/td>"]],[[1,"\u003ctd>Score at least 25 points in a 6-round match.\u003c/td>"]],[[1,"\u003ctd>35 points in a 9-round match.\u003c/td>"]],[[1,"\u003ctd>40 points in a 12-round match.\u003c/td>"]]]);

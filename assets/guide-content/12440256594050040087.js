@@ -1,0 +1,1 @@
+document.currentScript.receiveGuideContent([[[1,"\u003ctd>While unarmed, approach a downed enemy.\u003c/td>"]],[[1,"\u003ctd>Approach a downed enemy with a single sword or dual swords drawn.\u003c/td>"]],[[1,"\u003ctd>Approach a downed enemy with a greatsword drawn.\u003c/td>"]]]);

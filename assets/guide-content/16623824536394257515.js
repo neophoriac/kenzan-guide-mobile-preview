@@ -1,0 +1,1 @@
+document.currentScript.receiveGuideContent([[[1,"\u003ctd>Collect at least 1,000 ryō in one performance to earn the \u003ca class=\"guide-item-link\" href=\"?weapon=weyam0122#weapon-upgrade-trees\" title=\"View Star Parasol in Weapon upgrade trees\" data-weapon-tree-select=\"weyam0122\">Star Parasol\u003c/a>. Play at night after Request #32.\u003c/td>"]]]);
